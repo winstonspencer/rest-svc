@@ -9,4 +9,4 @@ spring:
 logging:
   level:
     org.springframework: INFO
-    com.mycompany: DEBUG
+    com.wst: DEBUG
