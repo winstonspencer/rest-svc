@@ -1,0 +1,42 @@
+2023-01-24 21:00:03.099 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/junio/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/junio/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-01-24 21:00:03.114 [main] INFO  com.wst.rest.RestApplicationTests - Starting RestApplicationTests using Java 19.0.1 with PID 21348 (started by junio in C:\Users\junio\source\repos\rest-svc)
+2023-01-24 21:00:03.115 [main] DEBUG com.wst.rest.RestApplicationTests - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-01-24 21:00:03.116 [main] INFO  com.wst.rest.RestApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-01-24 21:00:04.355 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-24 21:00:04.402 [main] INFO  com.wst.rest.RestApplicationTests - Started RestApplicationTests in 1.633 seconds (process running for 2.349)
+2023-01-24 21:11:09.577 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/junio/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/junio/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-01-24 21:11:09.591 [main] INFO  com.wst.rest.RestApplicationTests - Starting RestApplicationTests using Java 19.0.1 with PID 27192 (started by junio in C:\Users\junio\source\repos\rest-svc)
+2023-01-24 21:11:09.591 [main] DEBUG com.wst.rest.RestApplicationTests - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-01-24 21:11:09.592 [main] INFO  com.wst.rest.RestApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-01-24 21:11:10.980 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-24 21:11:11.051 [main] INFO  com.wst.rest.RestApplicationTests - Started RestApplicationTests in 1.826 seconds (process running for 2.592)
+2023-01-24 21:18:01.651 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/junio/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/junio/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-01-24 21:18:01.663 [main] INFO  com.wst.rest.RestApplicationTests - Starting RestApplicationTests using Java 19.0.1 with PID 20096 (started by junio in C:\Users\junio\source\repos\rest-svc)
+2023-01-24 21:18:01.664 [main] DEBUG com.wst.rest.RestApplicationTests - Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-01-24 21:18:01.665 [main] INFO  com.wst.rest.RestApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-01-24 21:18:02.784 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-24 21:18:02.837 [main] INFO  com.wst.rest.RestApplicationTests - Started RestApplicationTests in 1.499 seconds (process running for 2.235)
